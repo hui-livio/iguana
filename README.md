@@ -10,7 +10,7 @@
 | macOS Monterey latest (AppleClang latest) | ![win](https://github.com/qicosmos/iguana/actions/workflows/mac.yml/badge.svg?branch=master)         |
 | Windows Server 2022 (MSVC 19.33.31630.0)       | ![win](https://github.com/qicosmos/iguana/actions/workflows/windows.yml/badge.svg?branch=master)     |
 
-qq 交流群 701594518
+线上讨论: [项目讨论](https://purecpp.cn/chatroom.html)
 
 [中文版](lang/iguana%20使用文档.md)
 
